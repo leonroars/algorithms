@@ -1,2 +1,4 @@
 # algorithms
-Algorithms Pit: Learning process for algorithms(theory) &amp; Coding test
+Algorithms Pit:
+  - Learning process for algorithms(theory) &amp;
+  - Coding test
